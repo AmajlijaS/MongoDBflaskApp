@@ -1,2 +1,2 @@
 # MongoDBflaskApp
-mongodb flask aplication
+mongodb flask application
